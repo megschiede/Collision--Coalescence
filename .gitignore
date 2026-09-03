@@ -1,0 +1,7 @@
+wrfout_*
+*.nc
+*.exe
+*.o
+*.mod
+WPS/
+WRF/
